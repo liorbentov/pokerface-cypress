@@ -1,0 +1,9 @@
+# .prettierrc
+printWidth: 100
+parser: flow
+tabWidth: 4
+useTabs: true
+semi: true
+singleQuote: true
+bracketSpacing: true
+arrowParens: avoid

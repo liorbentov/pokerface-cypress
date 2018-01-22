@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node_modules/.bin/cypress open"
+    "start": "node_modules/.bin/cypress open",
+    "prettier": "npx prettier --write \"./cypress/**/*.js\""
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
   },
   "homepage": "https://github.com/liorbentov/pokerface-cypress#readme",
   "devDependencies": {
-    "cypress": "^1.4.1"
+    "cypress": "^1.4.1",
+    "prettier": "1.10.2"
   }
 }

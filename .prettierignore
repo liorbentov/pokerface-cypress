@@ -1,0 +1,7 @@
+./.gitignore
+./.prettierignore
+./prettierrc
+./package.json
+./package-lock.json
+./cypress.json
+./README.md
