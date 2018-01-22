@@ -3,5 +3,5 @@ describe('Login to Pokerface.io', () => {
         cy.visit('http://pokerface.io');
         cy.get("[class^=title]")
             .should("have.text", "Pokerface.io");
-    });
+   });
 });
