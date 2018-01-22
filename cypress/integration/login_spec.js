@@ -5,7 +5,7 @@ describe('Login to Pokerface.io', () => {
 	});
 
 	it('should have pokerface.io text', () => {
-cy.get('[class^=title]').should('have.text', 'Pokerface.io');
+		cy.get('[class^=title]').should('have.text', 'Pokerface.io');
 	});
 
 	it('should contain firstname input', () => {
