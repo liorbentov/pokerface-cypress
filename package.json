@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/liorbentov/pokerface-cypress/issues"
   },
-  "homepage": "https://github.com/liorbentov/pokerface-cypress#readme"
+  "homepage": "https://github.com/liorbentov/pokerface-cypress#readme",
+  "devDependencies": {
+    "cypress": "^1.4.1"
+  }
 }
