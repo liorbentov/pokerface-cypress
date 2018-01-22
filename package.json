@@ -1,0 +1,25 @@
+{
+  "name": "pokerface-cypress",
+  "version": "1.0.0",
+  "description": "E2E testing for Pokerface.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liorbentov/pokerface-cypress.git"
+  },
+  "keywords": [
+    "poker",
+    "pokerface",
+    "testing",
+    "E2E"
+  ],
+  "author": "Lior Shub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liorbentov/pokerface-cypress/issues"
+  },
+  "homepage": "https://github.com/liorbentov/pokerface-cypress#readme"
+}
